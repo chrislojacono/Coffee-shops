@@ -1,0 +1,23 @@
+body{
+    background-color: #c7ccc1;
+    color: rgb(2, 2, 2);
+}
+.pageHeader{
+    text-align: center;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+.list{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    
+}
+
+.shop{
+    width: 30%;
+    border: grey 1px solid;
+    margin: 0 10px 0 10px;
+    font-size: large;
+}
