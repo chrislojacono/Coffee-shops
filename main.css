@@ -1,11 +1,13 @@
 body{
-    background-color: #c7ccc1;
+    background-color: #54428E;
     color: rgb(2, 2, 2);
+    font-family: basker;
 }
 .pageHeader{
     text-align: center;
-    font-size: xx-large;
+    font-size: 4em;
     margin-bottom: 20px;
+    color: white;
 }
 
 .list{
@@ -20,4 +22,19 @@ body{
     border: grey 1px solid;
     margin: 0 10px 0 10px;
     font-size: large;
+    text-align: center;
+    background-color: #AFE3C0;
+    border: #688B58 solid 8px;
+    border-radius: 40px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.shop__link{
+    font-size: xx-large;
+    margin-bottom: .5em;
+    letter-spacing: .1em;
+}
+.shop__link a{
+    color: rgb(7, 7, 7);
 }
