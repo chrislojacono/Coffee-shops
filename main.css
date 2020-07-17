@@ -1,13 +1,13 @@
 body{
-    background-color: #54428E;
-    color: rgb(2, 2, 2);
+    background-color: #2C423F;
+    color: #252323;
     font-family: basker;
 }
 .pageHeader{
     text-align: center;
     font-size: 4em;
     margin-bottom: 20px;
-    color: white;
+    color: #F5F1ED;
 }
 
 .list{
@@ -23,8 +23,8 @@ body{
     margin: 0 10px 0 10px;
     font-size: large;
     text-align: center;
-    background-color: #AFE3C0;
-    border: #688B58 solid 8px;
+    background-color: #DAD2BC;
+    border: #780116 solid 5px;
     border-radius: 40px;
     -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
